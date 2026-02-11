@@ -41,7 +41,7 @@ const About = () => {
             Result-driven full-stack developer with 4+ years of experience 
             building scalable and dynamic web applications using React, HTML5, 
             CSS3, JavaScript, PHP, Nodejs, and Laravel(PHP).
-            Skilled in both Frontend and Backend development, with a strong foundation in database design,
+            Skilledin both Frontend and Backend development, with a strong foundation in database design,
             API integration, and cloud deployment. Passionates about building solutions that enhance performance and user experience.
           </p>
 

@@ -37,7 +37,7 @@ const data = [
 
   {
     id: 4,
-    title: "Pop Culture. Music. Movies. All in One Place.",
+    title: "Jive Nation Entertainment || The Ultimate Entertainment Hub",
     image: IMG4,
     github: "https://github.com/David-Osas-bot",
     demo: "https://jne-pied.vercel.app/"
