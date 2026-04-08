@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.webp'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.webp'
 import IMG4 from '../../assets/portfolio4.png'
-import IMG5 from '../../assets/portfolio5.webp'
+import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.webp'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
@@ -40,16 +40,16 @@ const data = [
     title: "Jive Nation Entertainment || The Ultimate Entertainment Hub",
     image: IMG4,
     github: "https://github.com/David-Osas-bot",
-    demo: "https://jne-pied.vercel.app/"
+    demo: "https://jivenationentertainment.co.uk/"
   },
 
 
   {
     id: 5,
-    title: "A Scalable Fitness Website Built for Growth",
+    title: "VoxPop – Real-Time Voting Application",
     image: IMG5,
     github: "https://github.com/David-Osas-bot",
-    demo: "https://gymnastics-website.vercel.app/"
+    demo: "https://vox-pop-gray.vercel.app/"
   },
 
   {
