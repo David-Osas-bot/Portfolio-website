@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.webp'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.webp'
 import IMG4 from '../../assets/portfolio4.png'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio7.png'
 import IMG6 from '../../assets/portfolio6.webp'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
