@@ -12,7 +12,6 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className="container about_container">
-      <div className="grid-background"></div>
         <div className="about_me">
           <img src={ME} alt="About_Image" />
         </div>
@@ -22,7 +21,7 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
-              <small>4+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about_card'>
