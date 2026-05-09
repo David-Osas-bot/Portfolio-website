@@ -1,4 +1,4 @@
- header {
+header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
@@ -53,11 +53,14 @@
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
-
-    img{
-        margin-top: -25%;
-    }
 }
+
+.me img {
+    margin-top: -25%;
+}
+
+
+
 
 /* ================ SCROLL DOWN ================== */
 .scroll_down {
@@ -73,7 +76,7 @@
 
 /* ============== Media Queries (Medium Devices) =============== */
 @media screen and (max-width: 1024px) {
-    .header{
+    header {
         height: 68vh;
     }
 }
@@ -81,12 +84,25 @@
 
 /* ============== Media Queries (Medium Devices) =============== */
 @media screen and (max-width: 600px) {
-     .header{
+    header {
         height: 100vh;
     }
 
-    .header_socials,
-    .scroll_down{
+    header .header_socials,
+    header .scroll_down {
         display: none;
     }
+}
+
+
+/* ============== Net Background =============== */
+.grid-background {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image:
+        linear-gradient(to right, rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+    background-size: 20px 20px;
 }

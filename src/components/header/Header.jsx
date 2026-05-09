@@ -7,6 +7,7 @@ import HeaderSocials from './HeaderSocials';
 const Header = () => {
   return (
     <header>
+      <div className="grid-background"></div>
       <div className="container header_container">
         <h5>Hello I'm</h5>
         <h1>Aituayuwa David Osas</h1>

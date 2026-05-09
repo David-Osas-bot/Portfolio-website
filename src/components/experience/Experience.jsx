@@ -13,7 +13,7 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience_content">
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>HTML</h4>
                 <small className='text-light'>Experienced</small>
@@ -21,7 +21,7 @@ const Experience = () => {
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>CSS</h4>
                 <small className='text-light'>Experienced</small>
@@ -29,15 +29,15 @@ const Experience = () => {
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
-                <h4>javaScript</h4>
+                <h4>JavaScript</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>Bootstrap</h4>
                 <small className='text-light'>Experienced</small>
@@ -45,15 +45,15 @@ const Experience = () => {
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
-                <h4>Tailwind</h4>
+                <h4>Tailwind CSS</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>React</h4>
                 <small className='text-light'>Experienced</small>
@@ -62,29 +62,13 @@ const Experience = () => {
           </div>
         </div>
 
-        {/* ====================== END OF FRONTENT ==================== */}
+        {/* ====================== END OF FRONTEND ==================== */}
 
         <div className="experience_backend">
           <h3>Backend Development</h3>
           <div className="experience_content">
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
-              <div>
-                <h4>Node JS</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-
-            <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
-              <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-
-            <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>PHP</h4>
                 <small className='text-light'>Experienced</small>
@@ -92,7 +76,15 @@ const Experience = () => {
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
+              <div>
+                <h4>Laravel</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience_details'>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
                 <h4>MySQL</h4>
                 <small className='text-light'>Experienced</small>
@@ -100,9 +92,25 @@ const Experience = () => {
             </article>
 
             <article className='experience_details'>
-              <HiMiniCheckBadge class="experience_details-icon"/>
+              <HiMiniCheckBadge class="experience_details-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>Firebase</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience_details'>
+              <HiMiniCheckBadge class="experience_details-icon" />
+              <div>
+                <h4>Railway</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience_details'>
+              <HiMiniCheckBadge class="experience_details-icon" />
+              <div>
+                <h4>MongoDB</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>

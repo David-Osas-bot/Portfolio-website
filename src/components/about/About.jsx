@@ -21,7 +21,7 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
-              <small>4+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
 
             <article className='about_card'>
@@ -38,11 +38,11 @@ const About = () => {
           </div>
 
           <p>
-            Result-driven full-stack developer with 4+ years of experience 
-            building scalable and dynamic web applications using React, HTML5, 
-            CSS3, JavaScript, PHP, Nodejs, and Laravel(PHP).
-            Skilled in both Frontend and Backend development, with a strong foundation in database design,
-            API integration, and cloud deployment. Passionates about building solutions that enhance performance and user experience.
+            Result-driven Full Stack Developer with 2 years of hands-on experience building scalable and responsive web
+            applications using languages like PHP, HTML, CSS, JavaScript, and Frameworks like React, Laravel and Tailwind CSS. Strong ability to develop both frontend and
+            backend systems, and manage database-driven applications. Passionate about writing clean,
+            maintainable code and improving system performance and user experience in real-world
+            production environments.          
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
